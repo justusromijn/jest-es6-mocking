@@ -1,0 +1,34 @@
+{
+  "name": "jest-es6-mocking",
+  "version": "1.0.0",
+  "description": "Example project of how to mock ES6 classes that are new-able, with the usage of Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justusromijn/jest-es6-mocking.git"
+  },
+  "keywords": [
+    "jest",
+    "es6",
+    "mock",
+    "mocking",
+    "new",
+    "class"
+  ],
+  "author": "Justus Romijn <justus.romijn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justusromijn/jest-es6-mocking/issues"
+  },
+  "homepage": "https://github.com/justusromijn/jest-es6-mocking#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.0.5"
+  }
+}
